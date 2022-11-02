@@ -1,8 +1,8 @@
 const data = {
   products: [
     {
-      name: 'Nike Slim shirt',
-      slug: 'nike-slim;shirt',
+      name: 'Budhiti Brassware',
+      slug: 'Budhiti Brassware',
       category: 'Shirts',
       image: '/images/p1.jpg',
       price: 120,
